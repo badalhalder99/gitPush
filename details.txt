@@ -1,3 +1,4 @@
 when you go to push local repo to remote repo and when you enter this code on your terminal (git push -u origin main) then somethime your terminal alert you to authenticate or say to validate PAT(personnal access token).so how to gerente personal access token,now I show you
 please go the website and follow the instraction: https://techglimpse.com/git-push-github-token-based-passwordless/
 And finally you can solve this.
+token password: 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
